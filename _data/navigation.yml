@@ -1,12 +1,26 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://antoinepetit2.github.io/antoinepetit.github.io/About
-   - title: "Research"
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Research"
+    url: /research/
+  - title: "Presentations"
+    sublinks:
+    - title: "Talks"
+      url: /talks/
+    - title: "Posters"
+      url: /posters/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Bio"
+    url: /bio/
+  - title: "Outreach"
+    url: /outreach/
+  # - title: "Publications"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Teaching"
   #   url: /year-archive/
-   - title: "Presentations"
+  # - title: "Bio"
   #   url: /collection-archive/
-   - title: "Teaching"
-   #  url: /sitemap/
+  #- title: "Sitemap"
+  #  url: /sitemap/
