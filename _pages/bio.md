@@ -5,7 +5,7 @@ layout: single
 
 author_profile: true
 
-title: "Short bio"
+title: "Bio"
 
 # header:
 
@@ -14,11 +14,10 @@ title: "Short bio"
 text-align: justify
 
 ---
+I obtained my PhD from the University of Grenoble Alpes in 2020 under the supervision of François Rieutord and Frédéric Mazen. 
+The aim of the thesis is to understand how microcavities produced by the implantation of light ions and exerting mechanical stress on the surrounding crystalline matrix will develop and lead to material fracture. 
 
-I graduated from [ENSTA Paris](https://www.ensta-paris.fr/en) with a specialization in applied mathematics in 2020. In parallel, I also graduated from the [Data Science Master of Université Paris-Saclay](https://portail.polytechnique.edu/mathematiquesappliquees/fr/masters/masters/m2-data-science).
+I graduated from [Grenoble INP Phelma](https://www.ensta-paris.fr/en) with a specialization in materials science in 2016. In parallel, I took part into the Erasmus Mundus Joint Master programme [FAME](https://www.fame-master.eu/) (Functional Advanced Materials Engineering).
 
-During my studies, I did a 6-month research internship under the supervision of [Philippe Naveau](https://www.lsce.ipsl.fr/Phocea/Pisp/visu.php?id=44&uid=naveau), at the [Laboratoire des Sciences du Climat et de l'Environnnement](https://www.lsce.ipsl.fr/en/index.php). I was working on rainfall extremes clustering, by coupling Kullback-Leibler divergence and machine learning algorithms. This research project was awarded the prize of the best end-of-studies project by [ENSTA Alumni](https://www.ensta.org/fr/).
 
-Before that, I also did a 3-month research internship at the [University of Bristol](https://www.bristol.ac.uk/maths/), on non-parametric additive quantile regression. More specifically, it was about the statistical and computational advantages of smoothing the pinball loss. I was supervised by [Matteo Fasiolo](https://mfasiolo.github.io/).
-
-For more details, see my [resume](http://mzaffran.github.io/assets/files/CV_Zaffran_2024_02.pdf).
+For more details, see my resume
