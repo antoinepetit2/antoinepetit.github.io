@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Antoine Petit"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a researcher in nuclear material physics"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Researcher in nuclear material physics"
   location         : "Paris Saclay"
   email            :
   links:
