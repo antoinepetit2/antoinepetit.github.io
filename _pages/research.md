@@ -12,6 +12,8 @@ header:
 
 - [*Brittle fracture studied by ultra-high speed synchrotron X-ray diffraction imaging*](https://journals.iucr.org/j/issues/2022/04/00/vb5040/index.html)
 </span> 
-A. Petit, S. Pokam, F. Mazen, S. Tardif, D. Landru, O. Kononchuk, N. Ben Mohamed, M. P. Olbinado, A. Rack and F. Rieutordb
+A. Petit, S. Pokam, F. Mazen, S. Tardif, D. Landru, O. Kononchuk, N. Ben Mohamed, M. P. Olbinado, A. Rack and F. Rieutord
+
 IUCR, 2022 
+
 [arXiv](https://arxiv.org/abs/2204.05683)
