@@ -15,5 +15,4 @@ header:
 A. Petit, S. Pokam, F. Mazen, S. Tardif, D. Landru, O. Kononchuk, N. Ben Mohamed, M. P. Olbinado, A. Rack and F. Rieutord
 
 IUCR, 2022 
-
 [arXiv](https://arxiv.org/abs/2204.05683)
