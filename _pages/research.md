@@ -15,4 +15,4 @@ header:
   A. Petit, S. Pokam, F. Mazen, S. Tardif, D. Landru, O. Kononchuk, N. Ben Mohamed, M. P. Olbinado, A. Rack and F. Rieutord
   J. Appl. Cryst.
   2022
-  [arXiv](https://arxiv.org/abs/2204.05683)[pdf](https://antoinepetit2.github.io/assets/files/Petit_et_al_2022.pdf)
+  [arXiv](https://arxiv.org/abs/2204.05683) | [pdf](https://antoinepetit2.github.io/assets/files/Petit_et_al_2022.pdf)
