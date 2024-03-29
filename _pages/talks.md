@@ -14,9 +14,6 @@ header:
 
 -ECS 2019 Phoenix
 
--IIT 2018 
-
-
 ###### Seminars
 
 -SEMI 2023
