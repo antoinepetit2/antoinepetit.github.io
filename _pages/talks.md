@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /talks/
 layout: single
 author_profile: true
 title: "Talks"
