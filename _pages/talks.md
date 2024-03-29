@@ -9,7 +9,7 @@ header:
 ###### Conferences
 
 -Numat 2022 Ghent
-# [*Brittle fracture studied by ultra-high speed synchrotron X-ray diffraction imaging*](https://journals.iucr.org/j/issues/2022/04/00/vb5040/index.html)
+
 -Euromat 2019 Stockholm
 
 -ECS 2019 Phoenix
