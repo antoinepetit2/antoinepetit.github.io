@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/saintmich.jpg
 ---
 
-I am a researcher in nuclear materials physics at Franch atomic energy research center (CEA)  
+I am a researcher in nuclear materials physics at French atomic energy research center (CEA)  
 My research is focused on the creep and viscoplasticity of irradiated materials (mainly cladding of nuclear fuel and vessel steels)  
   
 I am part of the *laboratory of mechanical behavior of irradiated materials*.  
