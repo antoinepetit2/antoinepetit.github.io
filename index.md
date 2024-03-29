@@ -7,7 +7,7 @@ header:
 ---
 
 I am a researcher in nuclear materials physics at Franch atomic energy research center (CEA)  
-I am studying the creep and viscoplasticity of irradiated materials (mainly cladding of nuclear fuel and vessel steels)  
+My research is focused on the creep and viscoplasticity of irradiated materials (mainly cladding of nuclear fuel and vessel steels)  
   
 I am part of the *mechanical behavior of irradiated materials laboratory*.  
 It is currently attached to the CEA as follows:  
