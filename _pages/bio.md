@@ -6,11 +6,10 @@ layout: single
 author_profile: true
 
 title: "Bio"
+header:
+  overlay_image: /assets/images/Picture_Phelma.jpg
+---
 
-# header:
-
-#  overlay_image: /assets/images/ardon.jpg
-  
 text-align: justify
 
 ---
