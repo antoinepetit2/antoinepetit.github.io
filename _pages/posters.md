@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /posters/
 layout: single
 author_profile: true
 title: "Posters"
