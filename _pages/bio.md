@@ -8,9 +8,7 @@ author_profile: true
 title: "Bio"
 header:
   overlay_image: /assets/images/Picture_Phelma.jpg
----
 
----
 I obtained my PhD from the University of Grenoble Alpes in 2020 under the supervision of François Rieutord and Frédéric Mazen. 
 The aim of the thesis is to understand how microcavities produced by the implantation of light ions and exerting mechanical stress on the surrounding crystalline matrix will develop and lead to material fracture. 
 
