@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Antoine Petit"
   avatar           : "/assets/images/Photo_bio.jpg"
-  bio              : "Researcher in nuclear material physics at CEA"
-  location         : "Paris Saclay"
+  bio              : "Researcher in nuclear material physics"
+  location         : "CEA Saclay"
   email            :
   links:
     - label: "Email"
