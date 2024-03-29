@@ -20,5 +20,5 @@ The aim of the thesis is to understand how microcavities produced by the implant
 I graduated from [Grenoble INP Phelma](https://www.ensta-paris.fr/en) with a specialization in materials science in 2016. In parallel, I took part into the Erasmus Mundus Joint Master programme [FAME](https://www.fame-master.eu/) (Functional Advanced Materials Engineering).
 
 
-For more details, see my [resume](https://antoinepetit2.github.io/antoinepetit.github.io/assets/files/CV_Antoine_2024_03.pdf).
+For more details, see my [resume](https://antoinepetit2.github.io/assets/files/CV_Antoine_2024_03.pdf).
 
