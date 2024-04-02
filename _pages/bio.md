@@ -1,13 +1,11 @@
-
+---
 permalink: /bio/
-
 layout: single
-
 author_profile: true
-
 title: "Bio"
 header:
   overlay_image: /assets/images/Picture_Phelma.jpg
+---
 
 I spent one year at CEA Cadarache (south of France) after my PhD working at the laboratory for the study of active nuclear fuels. 
 I studied the mechanical characteristics of the nuclear fuel/cladding interface zone, ang gathered quantitative data on the dissociation force of the cladding with respect to the fuel in order to model the fuel/cladding adhesion in different situations.
